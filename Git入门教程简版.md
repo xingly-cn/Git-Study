@@ -1,12 +1,7 @@
 ---
-layout: layout
 title: Git入门教程简版
 date: 2021-08-07 12:31:08
-tags: [git]
-categories: other
-abbrlink: git-study
-top_img: transparent
-cover: https://i.loli.net/2021/08/07/jR7klLbtYUarGzV.png
+tags: git
 ---
 
 ## Git常用命令
